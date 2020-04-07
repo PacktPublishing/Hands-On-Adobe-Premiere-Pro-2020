@@ -1,7 +1,7 @@
 # Hands-On-Adobe-Premiere-Pro-2020 [Video]
 This is the code repository for [Hands-On Adobe Premiere Pro 2020 [Video]]( https://www.packtpub.com/business-other/hands-on-adobe-premiere-pro-2020-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 
-# Additional Elements for the video course are placed at: https://downloads.packtpub.com/code/9781800204423.zip
+# Additional Elements for the video course are placed at: ## https://downloads.packtpub.com/code/9781800204423.zip
 
 ## About the Video Course
 Want to make money creatively? This Adobe Premiere Pro course will help you get there by showing you the ins and outs of being a professional video editor. Start today and begin editing for customers tomorrow!
