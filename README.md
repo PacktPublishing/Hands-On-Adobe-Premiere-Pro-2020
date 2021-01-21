@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-adobe-premiere-pro-2020-video/9781800204423)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On-Adobe-Premiere-Pro-2020 [Video]
 This is the code repository for [Hands-On Adobe Premiere Pro 2020 [Video]]( https://www.packtpub.com/business-other/hands-on-adobe-premiere-pro-2020-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 
